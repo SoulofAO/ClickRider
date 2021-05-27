@@ -1,4 +1,4 @@
-Its a one day joke project.
+Its a one day joke project. Clicker+Ranner.
 
 Points and Widjets in Controller
 Motors can regulates in MotorsInvent in structure
